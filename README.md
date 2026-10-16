@@ -4,7 +4,7 @@
 
 - **Họ và tên:** Nguyễn Thị Thu Giang
 - **Mã sinh viên:** 23010871
-- **Lớp:**CNTT_9
+- **Lớp:** CNTT_9
 - **Môn học:** Đánh giá và kiểm định chất lượng phần mềm.
 
 ## 2. Mục tiêu
