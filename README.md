@@ -2,10 +2,10 @@
 
 ## 1. Thông tin sinh viên
 
-- **Họ và tên:** [Điền họ tên]
-- **Mã sinh viên:** [Điền mã sinh viên]
-- **Lớp:** [Điền lớp]
-- **Môn học:** Kiểm thử phần mềm
+- **Họ và tên:** Nguyễn Thị Thu Giang
+- **Mã sinh viên:** 23010871
+- **Lớp:**CNTT_9
+- **Môn học:** Đánh giá và kiểm định chất lượng phần mềm.
 
 ## 2. Mục tiêu
 
